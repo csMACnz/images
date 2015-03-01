@@ -66,8 +66,47 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bclextensions.net-16-icon.png" />
+    <Content Include="bclextensions.net-24-icon.png" />
+    <Content Include="bclextensions.net-256-icon.png" />
+    <Content Include="bclextensions.net-256.png" />
+    <Content Include="bclextensions.net-256.svg" />
+    <Content Include="bclextensions.net-32-icon.png" />
+    <Content Include="bclextensions.net-32.png" />
+    <Content Include="bclextensions.net-48-icon.png" />
+    <Content Include="coverallsNet-16-icon.png" />
+    <Content Include="coverallsNet-24-icon.png" />
+    <Content Include="coverallsNet-256-icon.png" />
+    <Content Include="coverallsNet-256.png" />
+    <Content Include="coverallsNet-256.svg" />
+    <Content Include="coverallsNet-32-icon.png" />
     <Content Include="coverallsNet-32.png" />
+    <Content Include="coverallsNet-48-icon.png" />
     <Content Include="index.html" />
+    <Content Include="MarkdownTheCodeDocs-16-icon.png" />
+    <Content Include="MarkdownTheCodeDocs-24-icon.png" />
+    <Content Include="MarkdownTheCodeDocs-256-icon.png" />
+    <Content Include="MarkdownTheCodeDocs-256.png" />
+    <Content Include="MarkdownTheCodeDocs-256.svg" />
+    <Content Include="MarkdownTheCodeDocs-32-icon.png" />
+    <Content Include="MarkdownTheCodeDocs-32.png" />
+    <Content Include="MarkdownTheCodeDocs-48-icon.png" />
+    <Content Include="PublishCoverity-16-icon.png" />
+    <Content Include="PublishCoverity-24-icon.png" />
+    <Content Include="PublishCoverity-256-icon.png" />
+    <Content Include="PublishCoverity-256.png" />
+    <Content Include="PublishCoverity-256.svg" />
+    <Content Include="PublishCoverity-32-icon.png" />
+    <Content Include="PublishCoverity-32.png" />
+    <Content Include="PublishCoverity-48-icon.png" />
+    <Content Include="QUEBB-16-icon.png" />
+    <Content Include="QUEBB-24-icon.png" />
+    <Content Include="QUEBB-256-icon.png" />
+    <Content Include="QUEBB-256.png" />
+    <Content Include="QUEBB-256.svg" />
+    <Content Include="QUEBB-32-icon.png" />
+    <Content Include="QUEBB-32.png" />
+    <Content Include="QUEBB-48-icon.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
