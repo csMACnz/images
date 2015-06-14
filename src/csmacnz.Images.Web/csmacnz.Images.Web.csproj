@@ -74,6 +74,14 @@
     <Content Include="bclextensions.net-32-icon.png" />
     <Content Include="bclextensions.net-32.png" />
     <Content Include="bclextensions.net-48-icon.png" />
+    <Content Include="Beefeater-16-icon.png" />
+    <Content Include="Beefeater-24-icon.png" />
+    <Content Include="Beefeater-256-Icon.png" />
+    <Content Include="Beefeater-256.png" />
+    <Content Include="Beefeater-256.svg" />
+    <Content Include="Beefeater-32-icon.png" />
+    <Content Include="Beefeater-32.png" />
+    <Content Include="Beefeater-48-icon.png" />
     <Content Include="coverallsNet-16-icon.png" />
     <Content Include="coverallsNet-24-icon.png" />
     <Content Include="coverallsNet-256-icon.png" />
