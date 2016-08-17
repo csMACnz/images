@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="256mm"
-   height="256mm"
-   viewBox="0 0 907.08661 907.08661"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="288.06823"
-     inkscape:cy="474.51016"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="8.8693703"
+     inkscape:cy="207.86159"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,8 @@
      inkscape:window-height="847"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="px" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,21 +53,21 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-145.27559)">
+     transform="translate(0,-796.36219)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:418.99575806px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="102.26611"
-       y="470.33777"
+       style="font-style:normal;font-weight:normal;font-size:110.30242157px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="35.524776"
+       y="890.539"
        id="text4136"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4138"
-         x="102.26611"
-         y="470.33777">&gt;_</tspan><tspan
+         x="35.524776"
+         y="890.539">&gt;_</tspan><tspan
          sodipodi:role="line"
-         x="102.26611"
-         y="994.08252"
+         x="35.524776"
+         y="1028.417"
          id="tspan4140">&gt;^</tspan></text>
   </g>
 </svg>

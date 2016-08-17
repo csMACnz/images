@@ -19,6 +19,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -57,6 +58,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Properties\PublishProfiles\csmacnzImages - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\csmacnzImages.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -82,6 +84,14 @@
     <Content Include="Beefeater-32-icon.png" />
     <Content Include="Beefeater-32.png" />
     <Content Include="Beefeater-48-icon.png" />
+    <Content Include="ConcurrentConsole-16-icon.png" />
+    <Content Include="ConcurrentConsole-24-icon.png" />
+    <Content Include="ConcurrentConsole-256-icon.png" />
+    <Content Include="ConcurrentConsole-256.png" />
+    <Content Include="ConcurrentConsole-256.svg" />
+    <Content Include="ConcurrentConsole-32-icon.png" />
+    <Content Include="ConcurrentConsole-32.png" />
+    <Content Include="ConcurrentConsole-48-icon.png" />
     <Content Include="coverallsNet-16-icon.png" />
     <Content Include="coverallsNet-24-icon.png" />
     <Content Include="coverallsNet-256-icon.png" />
