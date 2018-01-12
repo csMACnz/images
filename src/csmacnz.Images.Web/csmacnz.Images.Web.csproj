@@ -84,6 +84,14 @@
     <Content Include="Beefeater-32-icon.png" />
     <Content Include="Beefeater-32.png" />
     <Content Include="Beefeater-48-icon.png" />
+    <Content Include="Caps-16-icon.png" />
+    <Content Include="Caps-24-icon.png" />
+    <Content Include="Caps-256-icon.png" />
+    <Content Include="Caps-256.png" />
+    <Content Include="Caps-256.svg" />
+    <Content Include="Caps-32-icon.png" />
+    <Content Include="Caps-32.png" />
+    <Content Include="Caps-48-icon.png" />
     <Content Include="ConcurrentConsole-16-icon.png" />
     <Content Include="ConcurrentConsole-24-icon.png" />
     <Content Include="ConcurrentConsole-256-icon.png" />
